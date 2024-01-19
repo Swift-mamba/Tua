@@ -1,5 +1,23 @@
 # Tua
-Tua is a superset of lua with typing and better memory management\
+Tua is a superset of lua with typing,enums and better memory management(with pointers)
+## Hello World
+this is the tua hello world
+```lua
+str:hello = "Hello World!"
+print(hello)
+```
+this is the tua hello world(with pointers)
+```lua
+str:hello = "Hello World!"
+str*:ptr = hello@
+print(hello)
+free(ptr)
+```
+## build targets
+1. LUA
+2. LUA
+3. LUA
+4. more LUA
 ## Special features
 True and False now have the values of 1 and 0 respectively
 ```lua
