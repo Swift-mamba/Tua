@@ -16,6 +16,9 @@ free(ptr)
 ## build targets
 1. LUA
 2. Javascript(don't know yet)
+## TAKE&takepkg
+take: build system
+takepkg: package manager(builds with take)
 ## Special features
 True and False now have the values of 1 and 0 respectively
 ```lua
@@ -27,3 +30,4 @@ TUA 1.0.0 - (based off of lua54 by PUC-Rio)
 > x = false + true
 1
 ```
+## dreamberd
