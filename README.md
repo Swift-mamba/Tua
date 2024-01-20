@@ -15,9 +15,7 @@ free(ptr)
 ```
 ## build targets
 1. LUA
-2. LUA
-3. LUA
-4. more LUA
+2. Javascript(don't know yet)
 ## Special features
 True and False now have the values of 1 and 0 respectively
 ```lua
