@@ -1,12 +1,12 @@
-# Tua
-Tua is a superset of lua with typing,enums and better memory management(with pointers)
+# LunaType
+LunaType is a superset of lua with typing,enums and better memory management(with pointers)
 ## Hello World
-this is the tua hello world
+this is the LunaType hello world
 ```lua
 str:hello = "Hello World!"
 print(hello)
 ```
-this is the tua hello world(with pointers)
+this is the LunaType hello world(with pointers)
 ```lua
 str:hello = "Hello World!"
 str*:ptr = hello@
@@ -30,4 +30,10 @@ TUA 1.0.0 - (based off of lua54 by PUC-Rio)
 > x = false + true
 1
 ```
+You can also do this
+```lua
+foo = {'foo','bar','baz'}
+foo[true] -- has the value of "foo"
+```
 ## dreamberd
+if i use the word dreamberd in  da project dreamberd dont own it!
