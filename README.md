@@ -1,4 +1,5 @@
 # LunaType
+![logov1](https://github.com/Swift-mamba/lunatype/assets/151572703/6866bd8a-765e-46f3-b1fd-afb5a489244f)\
 LunaType is a superset of lua with typing,enums and better memory management(with pointers)
 ## Hello World
 this is the LunaType hello world
